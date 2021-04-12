@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://https://dghalyang.github.io/</id>
     <title>Gridea</title>
-    <updated>2021-04-12T08:44:46.424Z</updated>
+    <updated>2021-04-12T08:48:45.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://https://dghalyang.github.io/"/>
     <link rel="self" href="https://https://dghalyang.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://https://dghalyang.github.io/images/avatar.png</logo>
     <icon>https://https://dghalyang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[Gridea-github配置教程]]></title>
+        <id>https://https://dghalyang.github.io/post/gridea-github-pei-zhi-jiao-cheng/</id>
+        <link href="https://https://dghalyang.github.io/post/gridea-github-pei-zhi-jiao-cheng/">
+        </link>
+        <updated>2021-04-12T08:48:11.000Z</updated>
+        <content type="html"><![CDATA[<p>123</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://https://dghalyang.github.io/post/hello-gridea/</id>
